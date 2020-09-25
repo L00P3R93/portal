@@ -1,5 +1,5 @@
 # portal
-This is a university student admission portal
+Admissions portal
 
 ***Functionalities***
 Student Registration & Login
